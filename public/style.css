@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+#video-grid{
+    display: flex;
+    justify-content: center;
+}
+
+video{
+    height: 100px;
+    width: 100px;
+}
